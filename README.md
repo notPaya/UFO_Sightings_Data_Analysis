@@ -1,35 +1,43 @@
-#🛸 UFO Sightings Analysis
+# 🛸 UFO Sightings Analysis
 
-##📌 Opis projekta
+## 📌 Opis projekta
 
 Ovaj projekat analizira podatke o viđenjima NLO-a koristeći Python.
 
-Podaci se obrađuju i vizualizuju pomoću biblioteka:
+Podaci se obrađuju i vizualizuju pomoću sljedećih biblioteka:
 
-pandas
-matplotlib
-folium
----
-##⚙️ Funkcionalnosti
+* pandas
+* matplotlib
+* folium
 
-✔️ Čišćenje podataka (datum, vrijeme, koordinate)
-✔️ Analiza po:
-
-godinama
-državama
-oblicima NLO-a
 ---
 
-##✔️ Vizualizacija:
+## ⚙️ Funkcionalnosti
 
-graf viđenja po godinama
-karta svijeta sa lokacijama NLO-a
-📊 Primjeri analiza
-📈 UFO viđenja po godinama
+* ✔️ Čišćenje podataka (datum, vrijeme, koordinate)
+* ✔️ Analiza po:
+
+  * godinama
+  * državama
+  * oblicima NLO-a
+
+---
+
+## 📊 Vizualizacija
+
+* 📈 Graf viđenja po godinama
+* 🌍 Karta svijeta sa lokacijama NLO-a
+
+---
+
+## 📊 Primjeri analiza
+
+### 📈 UFO viđenja po godinama
 
 Prikazuje koliko je viđenja zabilježeno svake godine.
+
 ---
 
-##🌍 Mapa svijeta
+### 🌍 Mapa svijeta
 
 Interaktivna mapa sa označenim lokacijama NLO viđenja.
